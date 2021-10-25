@@ -1,0 +1,40 @@
+.encabezado_01{
+	color: black;
+	font-size:24pt; /*pt, px, em (M), cm */
+	font-weight: bold;
+	font-family: calibri;
+	background: #D9D7D9;
+	width: 80%;
+	border-radius: 20px;
+}
+
+.encabezado_02{
+	color: black;
+	font-size:19pt;
+	font-weight: bold;
+	font-family: arial;
+	background: #D9D7D9;
+	width: 50%;
+	border-radius: 15px;
+}
+
+.boton_01{
+	color: white;
+	font-size:16pt;
+	font-weight: bold;
+	font-family: broadway;
+	background: #67D5B0;
+	width: 250px;
+	height: 60px;
+	border-radius: 15px;
+}
+
+.boton_01:hover{
+	color: #67D5B0;
+	background: white;
+}
+
+.tabla{
+	background: #D9D7D9;
+	width: 80%;
+}
